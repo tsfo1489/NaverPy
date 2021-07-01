@@ -1,0 +1,5 @@
+.vscode
+NaverPy.egg-info
+build
+dist
+setup.py
