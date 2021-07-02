@@ -2,6 +2,7 @@
 ## Naver Open API Package
 
 Naver의 Open API를 응용한 패키지 입니다
+현재 Datalab 트렌드 검색, 검색, 단축 URL 기능을 지원합니다
 
 <hr>
 
